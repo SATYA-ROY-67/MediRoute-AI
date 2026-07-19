@@ -2,7 +2,7 @@
 ### AI-Powered Smart Emergency Healthcare Management System
 
 <p align="center">
-  <img src="Screenshots/login page.png" width="900">
+  <img src="./Screenshots/login-page.png" width="900">
 </p>
 
 <p align="center">
@@ -77,7 +77,7 @@ The system connects **Patients, Hospitals, Ambulances, Blood Banks, and Administ
 ## Login Page
 
 <p align="center">
-<img src="Screenshots/login page.png" width="850">
+<img src="./Screenshots/login-page.png" width="850">
 </p>
 
 ---
