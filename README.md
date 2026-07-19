@@ -2,7 +2,7 @@
 ### AI-Powered Smart Emergency Healthcare Management System
 
 <p align="center">
-  <img src="./Screenshots/Screenshot2026-07-19 132431.png" width="900">
+  <img src="./Screenshots/Screenshot 2026-07-19 132431.png" width="900">
 </p>
 
 <p align="center">
