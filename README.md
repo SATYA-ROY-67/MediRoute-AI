@@ -2,7 +2,7 @@
 ### AI-Powered Smart Emergency Healthcare Management System
 
 <p align="center">
-  <img src="./Screenshots/login-page.png" width="900">
+  <img src="./Screenshots/Screenshot2026-07-19 132431.png" width="900">
 </p>
 
 <p align="center">
@@ -77,7 +77,7 @@ The system connects **Patients, Hospitals, Ambulances, Blood Banks, and Administ
 ## Login Page
 
 <p align="center">
-<img src="./Screenshots/login-page.png" width="850">
+<img src="./Screenshots/Screenshot 2026-07-19 132431.png" width="850">
 </p>
 
 ---
@@ -85,7 +85,7 @@ The system connects **Patients, Hospitals, Ambulances, Blood Banks, and Administ
 ## Patient Dashboard
 
 <p align="center">
-<img src="Screenshots/patient-dashboard.png" width="850">
+<img src="Screenshots/patient-dashboard.png.png" width="850">
 </p>
 
 ---
@@ -93,7 +93,7 @@ The system connects **Patients, Hospitals, Ambulances, Blood Banks, and Administ
 ## AI Medical Triage
 
 <p align="center">
-<img src="Screenshots/ai-triage.png" width="850">
+<img src="Screenshots/ai-triage.png.png" width="850">
 </p>
 
 ---
@@ -101,7 +101,7 @@ The system connects **Patients, Hospitals, Ambulances, Blood Banks, and Administ
 ## Emergency SOS
 
 <p align="center">
-<img src="Screenshots/emergency-sos.png" width="850">
+<img src="Screenshots/emergency-sos.png.png" width="850">
 </p>
 
 ---
@@ -109,7 +109,7 @@ The system connects **Patients, Hospitals, Ambulances, Blood Banks, and Administ
 ## Live Map Tracking
 
 <p align="center">
-<img src="Screenshots/live-map.png" width="850">
+<img src="Screenshots/live-map.png.png" width="850">
 </p>
 
 ---
@@ -117,7 +117,7 @@ The system connects **Patients, Hospitals, Ambulances, Blood Banks, and Administ
 ## Dijkstra Route Optimization
 
 <p align="center">
-<img src="Screenshots/dijkstra.png" width="850">
+<img src="Screenshots/dijkstra.png.png" width="850">
 </p>
 
 ---
